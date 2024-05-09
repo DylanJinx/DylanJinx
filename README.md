@@ -1,5 +1,7 @@
-### Hi! My name is ***Dylan*** 👋
 <a href = "./readme/README.zh-CN.md">简体中文</a>
+
+### Hi there! My name is ***Dylan*** 👋
+
 <!--
 **DylanJinx/DylanJinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
