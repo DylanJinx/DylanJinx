@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi! My name is ***Dylan*** 👋
+<a href = "./readme/README.zh-CN.md>简体中文</a>
 <!--
 **DylanJinx/DylanJinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- ⚡ My major is **artificial intelligence**.
+
+- 🌱 I'm currently learning about `rust`, `zkp` and `web3.0` industry related technologies.
+
+- 🔭 I'm currently pursuing a graduate degree and plan to be a digital nomad in the future.
+
+Nice to meet you and best wishes for you, my friends :)
