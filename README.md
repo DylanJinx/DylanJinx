@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - ⚡ My major is **artificial intelligence**.
 
-- 🌱 I'm currently learning in `rust`, `zkp` and about `web3.0` industry related technologies.
+- 🌱 I'm currently learning in `Rust`, `zkp` and about `web3.0` industry related technologies.
 
 - 🔭 I'm currently pursuing a graduate degree and plan to be a digital nomad in the future.
 
